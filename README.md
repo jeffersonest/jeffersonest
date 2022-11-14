@@ -1,10 +1,10 @@
 <div align="center"> 
-# 💫 About Me:
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="center" style="width: 100%" />
+  
 <br>
-🤖Techlead •💀Backend • 👽Frontend
-<br>
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" align="center" style="width: 100%" />
 
+## 🤖Techlead •💀Backend • 👽Frontend
+  
 ### 🔊 Listening...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12154229729&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0080ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12154229729&redirect=true)
 
@@ -12,7 +12,7 @@
 
 <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeffersonestev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonest) 
 
 <div align="center"> 
@@ -36,16 +36,20 @@
 </div>
 
 <div align="center"> 
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 </div>
 
 <div align="center"> 
+  
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
 
 
-<div align="center"> 
+<div align="center">  
+  
+---
 [![](https://visitcount.itsvg.in/api?id=jeffersonest&icon=3&color=2)](https://visitcount.itsvg.in)
 </div>
