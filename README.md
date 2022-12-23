@@ -42,14 +42,7 @@
 </div>
 
 <div align="center"> 
-  
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-</div>
-
-
-<div align="center">  
-  
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=jeffersonest&icon=3&color=2)](https://visitcount.itsvg.in)
 </div>
