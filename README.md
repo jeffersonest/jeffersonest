@@ -6,7 +6,7 @@
 ## 🤖Techlead •💀Backend • 👽Frontend
   
 ### 🔊 Listening...
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12154229729&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0080ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12154229729&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12154229729&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
