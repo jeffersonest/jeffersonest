@@ -114,7 +114,7 @@ Senior Software Engineer with 10+ years of experience building scalable, distrib
 
 <div align="center"> 
   
-### Random Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
