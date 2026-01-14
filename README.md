@@ -8,7 +8,7 @@
 <div align="center">
 
 ### Summary
-Senior Software Engineer with 10+ years of experience building scalable, distributed applications, mainly with Node.js and TypeScript (Next.js / NestJS). Strong background in AWS and Azure, Clean Architecture and Domain-Driven Design (DDD). Recently focused on production AI features: LLM integrations, chat experiences, dynamic prompt configuration, tool-calling workflows, and RAG pipelines with observability (e.g., Langfuse) and safe rollouts using feature flags (Unleash).
+Senior Software Engineer with 10+ years of experience building scalable, distributed applications, mainly with Node.js, TypeScript (Next.js / NestJS) and Python. Strong background in AWS and Azure, Clean Architecture and Domain-Driven Design (DDD). Recently focused on production AI features: LLM integrations, chat experiences, dynamic prompt configuration, tool-calling workflows, and RAG pipelines with observability (e.g., Langfuse) and safe rollouts using feature flags (Unleash).
 
 ### 🔊 Listening...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12154229729&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/jeffersonest)
